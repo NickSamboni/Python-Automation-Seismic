@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2021-01-20T14:02:11.280Z,36.0846667,-117.9353333,3.87,1.23,ml,11,120,0.07298,0.15,ci,ci39762784,2021-01-20T14:05:47.543Z,"5km NNE of Coso Junction, CA",earthquake,0.38,0.76,0.253,15,automatic,ci,ci
+2021-01-20T13:22:20.670Z,38.1247,-117.957,10.5,1.5,ml,13,132.22,0.017,0.08,nn,nn00798122,2021-01-20T13:28:01.080Z,"32 km SSE of Mina, Nevada",earthquake,,0.7,,,automatic,nn,nn
+2021-01-20T13:21:26.180Z,38.135,-117.9542,11.2,1.2,ml,10,129.2,0.007,0.05,nn,nn00798121,2021-01-20T13:27:52.455Z,"31 km SSE of Mina, Nevada",earthquake,,1.1,,,automatic,nn,nn
+2021-01-20T13:11:30.940Z,19.287,-65.0553,16,3.25,md,4,324,1.2895,0.23,pr,pr2021020016,2021-01-20T13:35:41.320Z,"105 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,8.73,17.39,0.12,2,reviewed,pr,pr
